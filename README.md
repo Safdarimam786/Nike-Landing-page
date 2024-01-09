@@ -1,7 +1,7 @@
-# landingPage/codSoft
+# landingPage
 # CODSOFT 
 
-LEVEL 1   TASK 1   GITHUB LINK: https://github.com/Safdarimam786/landingPage-CODSOFT
+
 
 
 
